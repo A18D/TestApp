@@ -1,0 +1,7 @@
+{
+	"extends": ["react-app", "lodash"]
+    "rules": {
+        "semi": ["error", "always"],
+        "quotes": ["error", "double"]
+    }
+}
